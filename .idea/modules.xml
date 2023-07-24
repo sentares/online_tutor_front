@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/.idea/online-tutor.iml" filepath="$PROJECT_DIR$/.idea/online-tutor.iml" />
->>>>>>> a988cd3 (add router, store)
     </modules>
   </component>
 </project>

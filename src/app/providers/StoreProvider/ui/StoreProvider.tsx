@@ -7,7 +7,7 @@ interface StoreProviderProps {
     children?: ReactNode;
 }
 
-const StoreProvider = (props: StoreProviderProps) => {
+export const StoreProvider = (props: StoreProviderProps) => {
     const {
         children
     } = props
@@ -17,5 +17,3 @@ const StoreProvider = (props: StoreProviderProps) => {
         </Provider>
     );
 };
-
-export default StoreProvider;
